@@ -1,0 +1,7 @@
+== OPENWIFI LINUx BASH ==
+Example tool for try new location API
+Requiments: 
+awk,sed,wget ,iwlist,grep
+USEGE: 
+RUN ./1.bash
+Copy_paste openstreetmap link from output to verify result
